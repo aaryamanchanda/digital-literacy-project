@@ -60,7 +60,7 @@ Explored coding practice platforms by completing a beginner-level challenge on H
 
 📁 [View Task 3](./task-3-platforms/)
 
-🔗 **Google Form Quiz:** [Digital Literacy Awareness Quiz](#) *(replace with your actual link)*
+🔗 **Google Form Quiz:** [Digital Literacy Awareness Quiz](#) *https://forms.gle/qARNABdGyEmuRN8A9*
 
 ### Task 4 — Professional Email & Etiquette Guide
 Drafted two professional emails demonstrating proper email etiquette, and created a Social Media Do's and Don'ts checklist for responsible online behaviour as a college student.
