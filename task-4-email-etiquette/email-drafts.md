@@ -5,7 +5,7 @@
 ## Email 1 — Request for Assignment Deadline Extension
 
 **To:** professor.sharma@vitbhopal.ac.in  
-**From:** aarya.manchanda2025@vitbhopal.ac.in  
+**From:** aarya.25bai10139@vitbhopal.ac.in  
 **Subject:** Request for Extension on Digital Literacy Assignment Submission
 
 Dear Professor Sharma,
@@ -29,7 +29,7 @@ VIT Bhopal University
 ## Email 2 — Expressing Interest in a Summer Internship
 
 **To:** internships@techcorp.in  
-**From:** aarya.manchanda2025@vitbhopal.ac.in  
+**From:** aarya.25bai10139@vitbhopal.ac.in  
 **Subject:** Application for Summer 2026 Internship — Artificial Intelligence
 
 Dear Internship Coordinator,
