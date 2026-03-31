@@ -55,5 +55,3 @@ If you are a victim of any cybercrime, report it immediately:
 > ⏰ **Time matters:** The sooner you report UPI fraud, the higher the chance of recovering your money. Banks can reverse transactions if reported within 24–48 hours.
 
 ---
-
-*This checklist was created as part of CSE0001 — Digital Literacy Project, VIT Bhopal University.*

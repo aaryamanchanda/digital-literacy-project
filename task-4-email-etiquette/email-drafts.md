@@ -50,4 +50,4 @@ Registration No.: 25BAI10139
 B.Tech — Artificial Intelligence, 1st Year  
 VIT Bhopal University  
 GitHub: https://github.com/aaryamanchanda  
-LinkedIn: *(add your LinkedIn URL)*
+LinkedIn:https://www.linkedin.com/in/aaryamanchanda7/

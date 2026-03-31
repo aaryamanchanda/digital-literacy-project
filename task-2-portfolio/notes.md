@@ -6,19 +6,19 @@
 - **URL:** https://github.com/aaryamanchanda
 - **Purpose:** Version control, hosting code projects, and building an open-source portfolio.
 - **What I did:** Created a profile README repository (a special repository named after my username) with my name, branch (B.Tech AI), year (1st Year), and a sentence about my learning goals. This repository itself (`digital-literacy-project`) is hosted on GitHub.
-- **Screenshot:** *(add github-profile.png to this folder)*
+- **Screenshot:** *![](github-profile.png)*
 
 ### 2. LinkedIn
-- **URL:** *(add your LinkedIn profile URL here)*
+- **URL:** https://www.linkedin.com/in/aaryamanchanda7/
 - **Purpose:** Professional networking, connecting with industry professionals, and discovering internship opportunities.
 - **What I did:** Filled in my Education section with B.Tech in Artificial Intelligence at VIT Bhopal University, expected graduation year 2029. Added a professional headline and summary.
-- **Screenshot:** *(add linkedin-profile.png to this folder)*
+- **Screenshot:** *![](linkedin-profile.png)*
 
 ### 3. Kaggle
 - **URL:** *(add your Kaggle profile URL here)*
 - **Purpose:** Data science and machine learning community for learning, competing, and sharing datasets/notebooks.
 - **What I did:** Created an account using my college email. Set up my bio with my name, university, and areas of interest (AI/ML).
-- **Screenshot:** *(add kaggle-profile.png to this folder)*
+- **Screenshot:** *![](kaggle-profile.png)*
 
 ---
 
