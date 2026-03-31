@@ -25,7 +25,7 @@ This repository serves as a **Digital Literacy Portfolio** created as part of th
 digital-literacy-project/
 ├── README.md
 ├── report/
-│   └── Project_Report.md
+│   └── Project_Report.pdf
 ├── task-1-presentation/
 │   ├── digital-literacy-infographic.png
 │   └── description.md
